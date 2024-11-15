@@ -6,4 +6,4 @@ Feature: Steam test
         When I click on about
         Then About page is open
         When I click install steam
-        Then The file 'steam.dmg' was downloaded
+        Then The file 'SteamSetup.exe' was downloaded
